@@ -1,0 +1,7 @@
+date,product,category,sales_units,revenue,region
+2025-01-05,Widget Pro,Technology,150,37500.00,Northwest
+2025-01-12,Gadget Lite,Technology,200,24000.00,Southeast
+2025-01-19,Basic Tool,Hardware,75,11250.00,Northwest
+2025-01-26,Deluxe Kit,Hardware,90,27000.00,Midwest
+2025-02-02,Phone X,Technology,300,150000.00,Northeast
+2025-02-09,Power Drill,Hardware,60,18000.00,Southeast
